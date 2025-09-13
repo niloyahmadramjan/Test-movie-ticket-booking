@@ -32,7 +32,7 @@ export default function Navbar() {
                 <BiCameraMovie className="text-red-500 text-4xl group-hover:opacity-0 transition-opacity duration-300" />
               </div>
               <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-orange-500">
-                PrimeCine
+                VibePass
               </span>
             </Link>
 
@@ -114,7 +114,7 @@ export default function Navbar() {
                 <BiCameraMovie className="text-red-500 text-4xl group-hover:opacity-0 transition-opacity duration-300" />
               </div>
               <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-orange-500">
-                PrimeCine
+                VibePass
               </span>
             </Link>
 
