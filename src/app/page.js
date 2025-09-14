@@ -1,14 +1,13 @@
-
-import Hero from "@/components/Hero";
-import Navbar from "@/components/Navbar";
+import Hero from '@/components/Hero'
+import Navbar from '@/components/Navbar'
 
 function Home() {
   return (
     <div>
-     <Navbar/>
-        <Hero/>
+      <Navbar />
+      <Hero />
     </div>
-  );
+  )
 }
 
-export default Home;
+export default Home
