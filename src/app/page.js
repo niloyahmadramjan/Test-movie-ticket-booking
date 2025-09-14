@@ -1,9 +1,13 @@
+import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 
 function Home() {
   return (
     <div>
-     <Navbar/>
+      <Navbar />
+      <div className="pt-90">
+        <Footer></Footer>
+      </div>
     </div>
   );
 }
